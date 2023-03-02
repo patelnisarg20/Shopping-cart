@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "mdb-react-ui-kit": "^5.1.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}

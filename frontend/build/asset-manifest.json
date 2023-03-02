@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/patelnisarg20/Shopping-cart/static/css/main.4a7c8410.chunk.css",
+    "main.js": "/patelnisarg20/Shopping-cart/static/js/main.3e1ab25c.chunk.js",
+    "main.js.map": "/patelnisarg20/Shopping-cart/static/js/main.3e1ab25c.chunk.js.map",
+    "runtime-main.js": "/patelnisarg20/Shopping-cart/static/js/runtime-main.46b03a31.js",
+    "runtime-main.js.map": "/patelnisarg20/Shopping-cart/static/js/runtime-main.46b03a31.js.map",
+    "static/css/2.9eac6916.chunk.css": "/patelnisarg20/Shopping-cart/static/css/2.9eac6916.chunk.css",
+    "static/js/2.e09b1e8d.chunk.js": "/patelnisarg20/Shopping-cart/static/js/2.e09b1e8d.chunk.js",
+    "static/js/2.e09b1e8d.chunk.js.map": "/patelnisarg20/Shopping-cart/static/js/2.e09b1e8d.chunk.js.map",
+    "index.html": "/patelnisarg20/Shopping-cart/index.html",
+    "static/css/2.9eac6916.chunk.css.map": "/patelnisarg20/Shopping-cart/static/css/2.9eac6916.chunk.css.map",
+    "static/css/main.4a7c8410.chunk.css.map": "/patelnisarg20/Shopping-cart/static/css/main.4a7c8410.chunk.css.map",
+    "static/js/2.e09b1e8d.chunk.js.LICENSE.txt": "/patelnisarg20/Shopping-cart/static/js/2.e09b1e8d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.46b03a31.js",
+    "static/css/2.9eac6916.chunk.css",
+    "static/js/2.e09b1e8d.chunk.js",
+    "static/css/main.4a7c8410.chunk.css",
+    "static/js/main.3e1ab25c.chunk.js"
+  ]
+}

@@ -1,0 +1,14 @@
+
+.maindiv{
+    background-image: url("../../images/bagimage.png");
+    background-size: cover;
+    text-align: center;
+
+    position:absolute;
+    top: 50%;
+    right: 50%;
+
+    /* transform: translate(0, -50%); */
+    padding: 10px
+ 
+}
